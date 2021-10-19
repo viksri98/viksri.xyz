@@ -1,0 +1,24 @@
+html {
+	font-family: "Open Sans", sans-serif;
+}
+
+body {
+	color: white;
+	background: gray;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: gold;
+	text-decoration: none;
+}
+
+ul.links {
+	list-style-type: none;
+	display: flex;
+	align-items: stretch;
+	justify-content: space-evenly;
+}
+
