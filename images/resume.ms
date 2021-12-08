@@ -1,7 +1,7 @@
 .fam T
 .ds CH
 .nr PS 10p
-.nr VS 13p
+.nr VS 14p
 .defcolor headingcolor rgb 0.5f 0.5f 0.5f
 
 .de heading 
@@ -66,21 +66,6 @@ T}
 .sp .5
 .TE
 
-.heading Education
-
-.TS
-tab(;) nospaces;
-rW20|lx.
-2020-2024 (expected); UC San Diego, B.S. Mathematics-Scientific Computation
-.sp .5
-; Major GPA - 3.85
-.sp .5
-; SAT 1540
-.sp .5
-; SAT II Math 800, SAT II Physics 800
-.sp .5
-.TE
-
 .heading Projects
 
 .TS
@@ -93,6 +78,43 @@ Summer 2021 Ongoing; sysinfo - A system information display tool in bash
 Summer 2021 Ongoing; i3blocks - A collection of bash scripts to display using the i3blocks utility
 .sp .5
 Summer 2021 Ongoing; viksri.xyz - A website to organize my projects as well as host an XMPP chat server
+.sp .5
+.TE
+
+
+.heading Education
+
+.TS
+tab(;) nospaces;
+rW20|lx.
+2020-2024 (expected); UC San Diego, B.S. Mathematics-Scientific Computation
+.sp .5
+; Major GPA - 3.85
+.sp .5
+; SAT 1540 : Math 800, Reading 740
+.sp .5
+; SAT II Math 800, SAT II Physics 800
+.sp .5
+.TE
+.bp
+.heading "Relevant Coursework"
+
+.TS
+tab(;) nospaces;
+rw20|lx.
+Spring 2020; CS 10 - Introduction to Python
+.sp .5
+Fall 2020; CSE 11 - Introduction to Programming (Java)
+.sp .5
+Winter 2021; CSE 12 - Data Structures and Object Oriented Design (Java)
+.sp .5
+Spring 2021; ECE 15 - Engineering Computation (C)
+.sp .5
+Fall 2021; MATH 180A - Introduction to Probability
+.sp .5
+Winter 2022 (Planned); MATH 181A - Mathematical Statistics
+.sp .5
+Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 .sp .5
 .TE
 
@@ -125,8 +147,9 @@ U.S. Citizen.
 
 .heading "Hobbies"
 
-.PP
-In my spare time I enjoy playing musical instruments.
-Currently I play the tuba in the UCSD Pep Band and the baritone saxophone for the Muir Musical.
-This fall we are doing a production of "A Chorus Line."
-I also play tennis in the San Diego adult tennis league for exercise.
+.IP \[bu]
+Tuba - UCSD Pep Band
+.IP \[bu]
+Saxophone - Muir Musical
+.IP \[bu]
+Tennis - San Diego Adult Tennis League
