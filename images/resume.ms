@@ -1,15 +1,16 @@
 .fam T
 .ds CH
-.nr PS 10p
-.nr VS 14p
-.defcolor headingcolor rgb 0.5f 0.5f 0.5f
+.nr PS 11p
+.nr VS 13p
+.defcolor headingcolor rgb 0.1f 0.1f 0.8f
 
 .de heading 
 .nf 
 .ps 14 
+\m[headingcolor]
 .B "\\$1" 
-\h’0n’\v’-1.2n’\\l’\\n(.lu\(ul’\ 
-.ps 10 
+\h’0n’\v’-1.2n’\\l’\\n(.lu\(ul’\\m[default]
+.ps 11
 .sp -1.4 
 .fi 
 .. 
@@ -20,14 +21,13 @@
 .ps 10
 vcsrinivasan@ucsd.edu
 
-.TS
+.TS 
 tab(;) nospaces;
 l rx.
-9450 Gilman Drive;
-#45061; T{
+5411 Catowba Lane; T{
 .I "(949) 468 7764"
 T}
-La Jolla 92092; T{
+Irvine 92603; T{
 .I "https://viksri.xyz"
 T}
 .TE
@@ -35,7 +35,7 @@ T}
 .heading Objective
 
 .LP
-Mathematician looking to apply programming and statistics knowledge to a quantitative finance internship.
+Mathematician looking to apply programming and statistics knowledge to a internship.
 
 .heading Experience
 
@@ -110,11 +110,23 @@ Winter 2021; CSE 12 - Data Structures and Object Oriented Design (Java)
 .sp .5
 Spring 2021; ECE 15 - Engineering Computation (C)
 .sp .5
+; 102 - Applied Linear Algebra
+.sp .5
 Fall 2021; MATH 180A - Introduction to Probability
+.sp .5
+; MATH 140A- Foundations of Real Analysis
 .sp .5
 Winter 2022 (Planned); MATH 181A - Mathematical Statistics
 .sp .5
+; LIGN 167 - Deep Learning/Natural Language Processing
+.sp .5
+; MATH 140B - Foundations of Real Analysis II
+.sp .5
 Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
+.sp .5
+; MATH 189 - Exploratory Data Analysis and Inference (R)
+.sp .5
+; MATH 140C - Foundations of Real Analysis III
 .sp .5
 .TE
 
@@ -139,6 +151,8 @@ English - Native Speaker; Spanish - B1 Level
 
 .LP
 Fully Vaccinated as of May 17, 2021
+.sp 0.25
+Booster Dose December 16, 2021
 
 .heading "Work Status"
 
