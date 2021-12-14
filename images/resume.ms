@@ -35,7 +35,7 @@ T}
 .heading Objective
 
 .LP
-Mathematician looking to apply programming and statistics knowledge to a internship.
+Mathematician looking to apply programming and statistics knowledge to an internship.
 
 .heading Experience
 
