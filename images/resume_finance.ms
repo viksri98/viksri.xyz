@@ -1,7 +1,7 @@
 .fam T
 .ds CH
 .nr PS 11p
-.nr VS 13p
+.nr VS 13.8p
 .defcolor headingcolor rgb 0.1f 0.1f 0.8f
 
 .de heading 
@@ -62,7 +62,8 @@ Summer 2021;T{
 Data Analysis with Python
 T}
 .sp .5
-; \h'2'Covered Numpy, Matplotlib, Pandas Dataframes, and Simple Statistics
+; \h'2'Covered Numpy, Matplotlib, Pandas Dataframes,
+; \h'2'and Simple Statistics
 .sp .5
 .TE
 
@@ -75,12 +76,12 @@ Fall 2019; Atlas - CLI game in Java
 .sp .5
 Summer 2021 Ongoing; sysinfo - A system information display tool in bash
 .sp .5
-Summer 2021 Ongoing; i3blocks - A collection of bash scripts to display using the i3blocks utility
+Summer 2021 Ongoing; i3blocks - A collection of bash scripts to display using i3bar
 .sp .5
-Summer 2021 Ongoing; viksri.xyz - A website to organize my projects as well as host an XMPP chat server
+Summer 2021 Ongoing; viksri.xyz - A website to organize my projects as well as host an 
+; \h'4.5' XMPP chat server
 .sp .5
 .TE
-
 
 .heading Education
 
@@ -89,7 +90,7 @@ tab(;) nospaces;
 rW20|lx.
 2020-2024 (expected); UC San Diego, B.S. Mathematics-Scientific Computation
 .sp .5
-; Major GPA - 3.68
+; Major GPA - 3.85
 .sp .5
 ; SAT 1540 : Math 800, Reading 740
 .sp .5
@@ -114,7 +115,7 @@ Spring 2021; ECE 15 - Engineering Computation (C)
 .sp .5
 Fall 2021; MATH 180A - Introduction to Probability
 .sp .5
-Winter 2022 (Planned); MATH 181A - Mathematical Statistics
+Winter 2022 (Planned); MATH 181A - Mathematical Statistics I
 .sp .5
 ; LIGN 167 - Deep Learning/Natural Language Processing
 .sp .5
@@ -128,9 +129,8 @@ Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 
 .TS
 tab(;) nospaces;
-cx|cx|cx|cx|cx.
-Python; C; HTML; Java; Bash
-.sp .5
+cx|cx|cx|cx|cx|cx.
+Python; C; Java; Bash; Latex; HTML
 .TE
 
 .heading "Spoken Languages"
@@ -154,10 +154,9 @@ Booster Dose December 16, 2021
 U.S. Citizen
 
 .heading "Hobbies"
-
-.IP \[bu]
+.sp 1.5
 Tuba - UCSD Pep Band
-.IP \[bu]
+.sp 0.25
 Saxophone - Muir Musical
-.IP \[bu]
+.sp 0.25
 Tennis - San Diego Adult Tennis League

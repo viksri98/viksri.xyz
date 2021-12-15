@@ -28,14 +28,14 @@ l rx.
 .I "(949) 468 7764"
 T}
 Irvine 92603; T{
-.I "https://viksri.xyz"
+.pdfhref W -D https://viksri.xyz "https://viksri.xyz"
 T}
 .TE
 
 .heading Objective
 
 .LP
-Mathematician looking to apply programming and statistics knowledge to an internship.
+Mathematician looking to apply programming and statistics knowledge to a research internship.
 
 .heading Experience
 
@@ -136,7 +136,7 @@ Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 .TS
 tab(;) nospaces;
 cx|cx|cx|cx|cx|cx.
-Python; C; HTML; Java; Bash; Latex
+Python; C; Java; Bash; Latex; HTML
 .TE
 
 .heading "Spoken Languages"
@@ -160,10 +160,9 @@ Booster Dose December 16, 2021
 U.S. Citizen
 
 .heading "Hobbies"
-
-.IP \[bu]
+.sp 1.5
 Tuba - UCSD Pep Band
-.IP \[bu]
+.sp 0.25
 Saxophone - Muir Musical
-.IP \[bu]
+.sp 0.25
 Tennis - San Diego Adult Tennis League
