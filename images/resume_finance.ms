@@ -35,7 +35,7 @@ T}
 .heading Objective
 
 .LP
-Mathematician looking to apply programming and statistics knowledge to a research internship.
+Mathematician looking to apply programming and statistics knowledge to a quantitative finance internship.
 
 .heading Experience
 
@@ -89,7 +89,7 @@ tab(;) nospaces;
 rW20|lx.
 2020-2024 (expected); UC San Diego, B.S. Mathematics-Scientific Computation
 .sp .5
-; Major GPA - 3.85
+; Major GPA - 3.68
 .sp .5
 ; SAT 1540 : Math 800, Reading 740
 .sp .5
@@ -114,19 +114,13 @@ Spring 2021; ECE 15 - Engineering Computation (C)
 .sp .5
 Fall 2021; MATH 180A - Introduction to Probability
 .sp .5
-; MATH 140A- Foundations of Real Analysis
-.sp .5
 Winter 2022 (Planned); MATH 181A - Mathematical Statistics
 .sp .5
 ; LIGN 167 - Deep Learning/Natural Language Processing
 .sp .5
-; MATH 140B - Foundations of Real Analysis II
-.sp .5
 Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 .sp .5
 ; MATH 189 - Exploratory Data Analysis and Inference (R)
-.sp .5
-; MATH 140C - Foundations of Real Analysis III
 .sp .5
 .TE
 
