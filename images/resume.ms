@@ -1,7 +1,7 @@
 .fam T
 .ds CH
 .nr PS 11p
-.nr VS 13p
+.nr VS 13.8p
 .defcolor headingcolor rgb 0.1f 0.1f 0.8f
 
 .de heading 
@@ -75,9 +75,10 @@ Fall 2019; Atlas - CLI game in Java
 .sp .5
 Summer 2021 Ongoing; sysinfo - A system information display tool in bash
 .sp .5
-Summer 2021 Ongoing; i3blocks - A collection of bash scripts to display using the i3blocks utility
+Summer 2021 Ongoing; i3blocks - A collection of bash scripts to display using i3bar
 .sp .5
-Summer 2021 Ongoing; viksri.xyz - A website to organize my projects as well as host an XMPP chat server
+Summer 2021 Ongoing; viksri.xyz - A website to organize my projects as well as host an 
+; \h'4.5' XMPP chat server
 .sp .5
 .TE
 
@@ -134,9 +135,8 @@ Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 
 .TS
 tab(;) nospaces;
-cx|cx|cx|cx|cx.
-Python; C; HTML; Java; Bash
-.sp .5
+cx|cx|cx|cx|cx|cx.
+Python; C; HTML; Java; Bash; Latex
 .TE
 
 .heading "Spoken Languages"
