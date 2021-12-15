@@ -9,7 +9,7 @@
 /Type /Page
 >>
 endobj
-4 0 obj << /Length 14262
+4 0 obj << /Length 14261
 >>
 stream
 q 1 0 0 1 0 0 cm
@@ -1012,7 +1012,7 @@ q BT
 0 Tc
 0.000 Tw [(Major GP)] TJ
 42.680 0 Td
-0.000 Tw [(A - 3.85)] TJ
+0.000 Tw [(A - 3.7)] TJ
 1 0 0 1 198.500 138.900 Tm
 0 Tc
 0 Tw (SA) Tj
@@ -1045,7 +1045,7 @@ endobj
 /Type /Page
 >>
 endobj
-17 0 obj << /Length 19106
+17 0 obj << /Length 19110
 >>
 stream
 q 1 0 0 1 0 0 cm
@@ -1308,14 +1308,14 @@ q BT
 16.500 0 Td
 0.000 Tw [(TH 140A- F)] TJ
 54.219 0 Td
-0.000 Tw [(oundations of Real Analysis)] TJ
+0.000 Tw [(oundations of Real Analysis I)] TJ
 1 0 0 1 81.625 532.320 Tm
 0 Tc
 0 Tw (W) Tj
 9.944 0 Td
 0.000 Tw [(inter 2022 \(Planned\)      MA)] TJ
 123.431 0 Td
-0.000 Tw [(TH 181A - Mathematical Statistics)] TJ
+0.000 Tw [(TH 181A - Mathematical Statistics I)] TJ
 1 0 0 1 198.500 511.620 Tm
 0 Tc
 0.000 Tw [(LIGN 167 - Deep Learning/Natural Language Processing)] TJ
@@ -2460,9 +2460,9 @@ endobj
 /Type /Catalog
 >>
 endobj
-18 0 obj << /CreationDate (D:20211214183902-08'00')
+18 0 obj << /CreationDate (D:20211214184246-08'00')
 /Creator (groff version 1.22.4)
-/ModDate (D:20211214183902-08'00')
+/ModDate (D:20211214184246-08'00')
 /Producer (gropdf version 1.22.4)
 >>
 endobj
@@ -2599,24 +2599,24 @@ endobj
 xref
 0 19
 0000000000 65535 f 
-0000033733 00000 n 
-0000049673 00000 n 
+0000033736 00000 n 
+0000049676 00000 n 
 0000000015 00000 n 
 0000000146 00000 n 
-0000033946 00000 n 
-0000035088 00000 n 
-0000037197 00000 n 
-0000038972 00000 n 
-0000039448 00000 n 
-0000040588 00000 n 
-0000042698 00000 n 
-0000044475 00000 n 
-0000045616 00000 n 
-0000047726 00000 n 
-0000049505 00000 n 
-0000014460 00000 n 
-0000014574 00000 n 
-0000033783 00000 n 
+0000033949 00000 n 
+0000035091 00000 n 
+0000037200 00000 n 
+0000038975 00000 n 
+0000039451 00000 n 
+0000040591 00000 n 
+0000042701 00000 n 
+0000044478 00000 n 
+0000045619 00000 n 
+0000047729 00000 n 
+0000049508 00000 n 
+0000014459 00000 n 
+0000014573 00000 n 
+0000033786 00000 n 
 trailer
 <<
 /Info 18 0 R 
@@ -2624,5 +2624,5 @@ trailer
 /Size 19
 >>
 startxref
-49887
+49890
 %%EOF
