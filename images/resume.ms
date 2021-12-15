@@ -35,7 +35,7 @@ T}
 .heading Objective
 
 .LP
-Mathematician looking to apply programming and statistics knowledge to a research internship.
+Mathematician looking to apply programming and statistics knowledge to an internship.
 
 .heading Experience
 
@@ -62,7 +62,8 @@ Summer 2021;T{
 Data Analysis with Python
 T}
 .sp .5
-; \h'2'Covered Numpy, Matplotlib, Pandas Dataframes, and Simple Statistics
+; \h'2'Covered Numpy, Matplotlib, Pandas Dataframes,
+; \h'2'and Simple Statistics
 .sp .5
 .TE
 
@@ -81,7 +82,6 @@ Summer 2021 Ongoing; viksri.xyz - A website to organize my projects as well as h
 ; \h'4.5' XMPP chat server
 .sp .5
 .TE
-
 
 .heading Education
 
