@@ -35,7 +35,7 @@ T}
 .heading Objective
 
 .LP
-Mathematician looking to apply programming and statistics knowledge to an internship.
+Mathematician looking to apply programming and statistics knowledge to a research internship.
 
 .heading Experience
 
@@ -117,15 +117,15 @@ Fall 2021; MATH 180A - Introduction to Probability
 .sp .5
 ; MATH 140A- Foundations of Real Analysis I
 .sp .5
-Winter 2022 (Planned); MATH 181A - Mathematical Statistics I
+Winter 2022; MATH 181A - Mathematical Statistics I
 .sp .5
-; LIGN 167 - Deep Learning/Natural Language Processing
+; MATH 170A - Numerical Analysis: Linear Programming (MATLAB)
 .sp .5
 ; MATH 140B - Foundations of Real Analysis II
 .sp .5
 Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 .sp .5
-; MATH 189 - Exploratory Data Analysis and Inference (R)
+; COGS 118A - Supervised Machine Learning Algorithms
 .sp .5
 ; MATH 140C - Foundations of Real Analysis III
 .sp .5
@@ -135,8 +135,8 @@ Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 
 .TS
 tab(;) nospaces;
-cx|cx|cx|cx|cx|cx.
-Python; C; Java; Bash; Latex; HTML
+cx|cx|cx|cx|cx|cx|cx.
+Python; C; Java; MATLAB; Bash; Latex; HTML
 .TE
 
 .heading "Spoken Languages"
