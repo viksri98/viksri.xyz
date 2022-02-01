@@ -1,7 +1,7 @@
 .fam T
 .ds CH
 .nr PS 11p
-.nr VS 13.8p
+.nr VS 13.6p
 .defcolor headingcolor rgb 0.1f 0.1f 0.8f
 
 .de heading 
@@ -66,7 +66,7 @@ T}
 ; \h'2'and Simple Statistics
 .sp .5
 Spring 2022;T{
-.B Computer Repair
+.B "Computer Repair"
 Student IT Technician
 T}
 .sp .5
