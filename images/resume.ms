@@ -42,7 +42,7 @@ Mathematician looking to apply programming and statistics knowledge to a researc
 .TS
 tab(;) nospaces;
 rW20|lx.
-Fall 2018-Fall 2020;T{
+Fall 2017-Fall 2019;T{
 .B Volunteering
 Technical Support
 T}
