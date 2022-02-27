@@ -132,7 +132,7 @@ Winter 2022; MATH 181A - Mathematical Statistics I
 .sp .5
 Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 .sp .5
-; COGS 118A - Supervised Machine Learning Algorithms
+; DSC 190 - Introduction to Machine Learning
 .sp .5
 ; MATH 140C - Foundations of Real Analysis III
 .sp .5
