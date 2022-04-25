@@ -65,13 +65,6 @@ T}
 ; \h'2'Covered Numpy, Matplotlib, Pandas Dataframes,
 ; \h'2'and Simple Statistics
 .sp .5
-Spring 2022;T{
-.B "Computer Repair"
-Student IT Technician
-T}
-.sp .5
-; \h'2'Repairing computers at the Preuss School
-.sp .5
 .TE
 
 .heading Projects
