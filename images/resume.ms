@@ -123,7 +123,7 @@ Winter 2022; MATH 181A - Mathematical Statistics I
 .sp .5
 ; MATH 140B - Foundations of Real Analysis II
 .sp .5
-Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
+Spring 2022; MATH 181B - Mathematical Statistics II
 .sp .5
 ; DSC 190 - Introduction to Machine Learning
 .sp .5
@@ -135,8 +135,8 @@ Spring 2022 (Planned); MATH 181B - Mathematical Statistics II
 
 .TS
 tab(;) nospaces;
-cx|cx|cx|cx|cx|cx|cx.
-Python; C; Java; MATLAB; Bash; Latex; HTML
+cx|cx|cx|cx|cx|cx|cx|cx|cx.
+Python; R; Fortran; C; Java; MATLAB; Bash; Latex; HTML
 .TE
 
 .heading "Spoken Languages"
